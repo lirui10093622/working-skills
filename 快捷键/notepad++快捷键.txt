@@ -1,0 +1,6 @@
+CTRL + D: 复制当前行到下一行的位置
+CTRL + SHIFT + L: 删除当前行
+
+CTRL + S: 保存修改
+CTRL + Z: 撤销 
+CTRL + Y: 重做
