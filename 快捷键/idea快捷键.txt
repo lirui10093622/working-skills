@@ -1,0 +1,50 @@
+==查找==
+双击SHIFT: 查找所有
+CTRL + N: 查找类
+CTRL + SHIFT + F: 当前项目查找包含特定内容的文件
+CTRL + SHIFT + N: 查找文件
+CTRL + E: 最近的文件
+
+==文本编辑==
+SHIFT + ENTER: 向下插入新行
+CTRL + D: 复制当前行(到下一行)
+CTRL + X: 剪切当前行
+CTRL + Y: 删除当前行
+CTRL + R: 在当前文件中替换特定内容
+CTRL + SHIFT + R: 当前项目中替换特定内容
+CTRL + SHIFT + U: 大小写转化
+
+==选中&格式化==
+CTRL + ALT + L: 格式话选择区域
+CTRL + SHIFT + {: 可以选中整个类的内容
+CTRL + W: 选中一个语法对象(单词,变量,语句块,方法体等)
+双击鼠标: 选择语句块(对于类不起作用)
+CTRL + ALT + O: 优化导入的类和包
+
+==快速跳转==
+CTRL + ALT + <向左>: 后退
+CTRL + ALT + <向右>: 前进
+CTRL + SHIFT + <backspace>: 返回到上一次修改的地方
+CTRL + TAB: 切换窗口文件
+CTRL + G: 跳转到指定行与列
+
+==代码浏览==
+CTRL + <左键单击>: 跳到方法的声明
+CTRL + Q: 查看javadoc
+CTRL + ALT + <左键单击>: 跳到方法的实现
+CTRL + ALT + U: 查看类的继承结构
+CTRL + ALT + H: 查看方法的调用层次结构
+CTRL + SHIFT + -/+: 折叠所有/展开所有
+ALT + F7: 查找函数,变量或者类的所有引用到的地方
+
+==代码生成==
+CTRL + SHIFT + T: 新建单元测试
+ALT + INSERT: 生成toString(), getter\setter方法等
+ALT + ENTER: 自动代码补全等
+CTRL + ALT + T: 代码模板
+
+==代码编写==
+SHIFT + F6: 重命名类,方法,变量等
+
+==高级技能==
+ALT + SHIFT + INSERT: 列编辑
