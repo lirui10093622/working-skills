@@ -13,6 +13,8 @@ CTRL + Y: 删除当前行
 CTRL + R: 在当前文件中替换特定内容
 CTRL + SHIFT + R: 当前项目中替换特定内容
 CTRL + SHIFT + U: 大小写转化
+CTRL + SHIFT + 向上箭头: 把当前行的内容上移一行
+CTRL + SHIFT + 向下箭头: 把当前行的内容下移一行
 
 ==选中&格式化==
 CTRL + ALT + L: 格式话选择区域
