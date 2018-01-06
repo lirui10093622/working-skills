@@ -10,7 +10,10 @@ for /d %%a in ( ./* ) do (
     cd %%a
     if exist "pom.xml" (
       call mvn clean install -DskipTests
-    )
+	  rem 异步执行: call mvn clean install -DskipTests
+    ) else (
+	  echo %%a不是maven项目
+	)
 	cd ..
 	echo off
   )
