@@ -1,0 +1,15 @@
+[启动]
+#以系统管理员登录oracle
+sqlplus / as sysdba
+#启动oracle
+startup
+#启动监听器
+lsnrctl start
+
+[停止]
+#停止监听器
+lsnrctl stop
+#以系统管理员登录oracle
+sqlplus / as sysdba
+#关闭oracle
+shutdown

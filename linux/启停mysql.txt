@@ -1,0 +1,12 @@
+#方法一
+service mysqld start
+service mysqld stop
+
+#方法二
+启动: mysqld_safe >/dev/null 2>&1 &
+关闭: mysqladmin shutdown
+
+#方法三
+/etc/inint.d/mysqld start
+/etc/inint.d/mysqld stop
+/etc/inint.d/mysqld restart

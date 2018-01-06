@@ -1,0 +1,1 @@
+select * from dba_objects where object_type='VIEW' and object_name like 'V_$%';
