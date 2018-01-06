@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app  version="2.5" id="WebApp_1471767991163" 
+          xmlns="http://java.sun.com/xml/ns/j2ee"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+          xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_5.xsd">
+  <display-name>Servlet 2.5 Template</display-name>
+  <description>servlet 2.5规范的web.xml文件模板</description>
+</web-app>

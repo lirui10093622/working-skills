@@ -1,0 +1,5 @@
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app id="WebApp_1471767991163">
+  <display-name>Servlet 2.3 Template</display-name>
+  <description>servlet 2.3规范的web.xml文件模板</description>
+</web-app>
